@@ -1,0 +1,6 @@
+[book]
+authors = ["Jerry"]
+language = "en"
+multilingual = false
+src = "src"
+title = "History Notes"
