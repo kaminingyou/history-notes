@@ -5,9 +5,9 @@
 * [The Act of Union](./1.md)
 * [Consequences of the Act of Union](./chapter1/2.md)
 * [Responsible Government](./3.md)
-* Toward a Canadian Federation
-* Econimic Context and US Relations
-* Moving Towards Condederation
+* [Toward a Canadian Federation](./4.md)
+* [Economic Context and US Relations](./5.md)
+* Moving Towards Confederation
 * British North America Act
-* First Phase of Industrialisaion
+* First Phase of Industrialisation
 
