@@ -8,3 +8,4 @@
   - [Toward a Canadian Federation](./chapter1/4.md)
   - [Economic Context and US Relations](./chapter1/5.md)
   - [Moving Towards Confederation](./chapter1/6.md)
+  - [British North America Act](./chapter1/7.md)
