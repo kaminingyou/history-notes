@@ -7,3 +7,4 @@
   - [Responsible Government](./chapter1/3.md)
   - [Toward a Canadian Federation](./chapter1/4.md)
   - [Economic Context and US Relations](./chapter1/5.md)
+  - [Moving Towards Confederation](./chapter1/6.md)
