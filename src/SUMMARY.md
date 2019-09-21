@@ -10,4 +10,5 @@
   - [Moving Towards Confederation](./chapter1/6.md)
   - [British North America Act](./chapter1/7.md)
   - [First Phase of Industrialisation](./chapter1/8.md)
+  - [Forestry and Agricultural Industries](./chapter1/9.md)
 
