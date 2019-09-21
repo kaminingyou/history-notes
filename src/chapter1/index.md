@@ -9,5 +9,5 @@
 * [Economic Context and US Relations](./5.md)
 * [Moving Towards Confederation](./6.md)
 * [British North America Act](./7.md)
-* First Phase of Industrialisation
+* [First Phase of Industrialisation](./8.md)
 
