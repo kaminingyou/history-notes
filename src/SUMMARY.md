@@ -11,4 +11,6 @@
   - [British North America Act](./chapter1/7.md)
   - [First Phase of Industrialisation](./chapter1/8.md)
   - [Forestry and Agricultural Industries](./chapter1/9.md)
+  - [Working Conditions and Unions](./chapter1/10.md)
+  - [Population Movements](./chapter1/11.md)
 
