@@ -13,4 +13,5 @@
   - [Forestry and Agricultural Industries](./chapter1/9.md)
   - [Working Conditions and Unions](./chapter1/10.md)
   - [Population Movements](./chapter1/11.md)
+  - [Presence of the Catholic Church](./chapter1/12.md)
 
