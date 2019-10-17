@@ -16,4 +16,5 @@
 * [Presence of the Catholic Church](./chapter1/12.md)
 * [Role of Women and Culture in Quebec](./13.md)
 * [Development of the Canadian Federation: Western Expansion](./14.md)
+* [First Nations in the Dominion of Canada](./15.md)
 

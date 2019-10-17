@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](./README.md)
+
 - [The Formation of the Canadian Federal System](./chapter1/index.md)
   - [The Act of Union](./chapter1/1.md)
   - [Consequences of The Act of Union](./chapter1/2.md)
@@ -15,5 +16,6 @@
   - [Population Movements](./chapter1/11.md)
   - [Presence of the Catholic Church](./chapter1/12.md)
   - [Role of Women and Culture in Quebec](./chapter1/13.md)
-  - [Development of the Canadian Federation: Western Expansion](./14.md)
+  - [Development of the Canadian Federation: Western Expansion](./chapter1/14.md)
+  - [First Nations in the Dominion of Canada](./chapter1/15.md)
 

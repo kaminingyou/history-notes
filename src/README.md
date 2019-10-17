@@ -1,6 +1,6 @@
 # History Notes
 
-The notes are taken in bullet points along with graphs and images. The notes are organised in four sections, which are **content**, **definitions**, **related questions** and **related documents**. *(Related questions and related documents will be added later when going over notes.)* 
+The notes are taken in bullet points along with graphs and images. The notes are organised in four sections, which are **content**, **definitions** ~~**related questions** and **related documents**. *(Related questions and related documents will be added later when going over notes.)*~~.
 
 ### Contributing
 
