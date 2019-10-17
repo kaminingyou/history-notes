@@ -14,4 +14,5 @@
   - [Working Conditions and Unions](./chapter1/10.md)
   - [Population Movements](./chapter1/11.md)
   - [Presence of the Catholic Church](./chapter1/12.md)
+  - [Role of Women and Culture in Quebec](./chapter1/13.md)
 
