@@ -15,4 +15,5 @@
   - [Population Movements](./chapter1/11.md)
   - [Presence of the Catholic Church](./chapter1/12.md)
   - [Role of Women and Culture in Quebec](./chapter1/13.md)
+  - [Development of the Canadian Federation: Western Expansion](./14.md)
 
