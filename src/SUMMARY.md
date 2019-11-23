@@ -18,4 +18,5 @@
   - [Role of Women and Culture in Quebec](./chapter1/13.md)
   - [Development of the Canadian Federation: Western Expansion](./chapter1/14.md)
   - [First Nations in the Dominion of Canada](./chapter1/15.md)
+  - [Macdonald and Mercier's Government](./chapter1/16.md)
 
