@@ -21,4 +21,6 @@
   - [Macdonald and Mercier's Government](./chapter1/16.md)
 - [Nationalisms and the Autonomy of Canada](./chapter2/index.md)
   - [Laurier's Liberal Government](./chapter2/1.md)
+  - [Second Phase of Industrialisation (1896-1929)](./chapter2/2.md)
+  - [Transformation of Society in The Beginning of The 20th Century](./chapter2/3.md)
 
