@@ -23,4 +23,7 @@
   - [Laurier's Liberal Government](./chapter2/1.md)
   - [Second Phase of Industrialisation (1896-1929)](./chapter2/2.md)
   - [Transformation of Society in The Beginning of The 20th Century](./chapter2/3.md)
+  - [World War I](./chapter2/4.md)
+  - [Inter-war Period](./chapter2/5.md)
+  - [World War II](./chapter2/6.md)
 
