@@ -4,8 +4,6 @@
 
 [Timelines](./timelines.md)
 
-- [Articles](./articles/index.md)
-  - [Economic Cycles](./articles/economic_cycles.md)
 - [The Formation of the Canadian Federal System](./chapter1/index.md)
   - [The Act of Union](./chapter1/1.md)
   - [Consequences of The Act of Union](./chapter1/2.md)
@@ -30,4 +28,8 @@
   - [World War I](./chapter2/4.md)
   - [Inter-war Period](./chapter2/5.md)
   - [World War II](./chapter2/6.md)
+- [The Modernisation of Quebec and the Quiet Revolution](./chapter3/index.md)
+  - [Duplessis Government](./chapter3/1.md)
+- [Articles](./articles/index.md)
+  - [Economic Cycles](./articles/economic_cycles.md)
 
