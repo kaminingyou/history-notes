@@ -1,6 +1,6 @@
 # Nationalisms and the Autonomy of Canada
 
-### Lessons
+### Parts
 
 * [Laurier's Liberal Government](./1.md)
 * [Second Phase of Industrialisation (1896-1929)](./2.md)
