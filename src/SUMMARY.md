@@ -30,6 +30,7 @@
   - [World War II](./chapter2/6.md)
 - [The Modernisation of Quebec and the Quiet Revolution](./chapter3/index.md)
   - [Duplessis Government](./chapter3/1.md)
+  - [The Quiet Revolution (1960-1970)](./chapter3/2.md)
 - [Articles](./articles/index.md)
   - [Economic Cycles](./articles/economic_cycles.md)
 
