@@ -31,6 +31,7 @@
 - [The Modernisation of Quebec and the Quiet Revolution](./chapter3/index.md)
   - [Duplessis Government](./chapter3/1.md)
   - [The Quiet Revolution (1960-1970)](./chapter3/2.md)
+  - [Quebec Society During the 1960s](./chapter3/3.md)
 - [Articles](./articles/index.md)
   - [Economic Cycles](./articles/economic_cycles.md)
 
