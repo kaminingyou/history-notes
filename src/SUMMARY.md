@@ -34,6 +34,8 @@
   - [Quebec Society During the 1960s](./chapter3/3.md)
   - [Quebec Society Under The Bourassa Government *(1970-1976)*](./chapter3/4.md)
   - [Quebec society under Levesque *(1976-1980)*](./chapter3/5.md)
+- [Societal Choices in Contemporary Quebec](./chapter4/index.md)
+  - [Political Choices in Contemporary Quebec](./chapter4/1.md)
 - [Articles](./articles/index.md)
   - [Economic Cycles](./articles/economic_cycles.md)
 
