@@ -12,7 +12,7 @@
         * All outdoor signage must be only in French, but indoor signage can have French and another language.
         * French must in a larger font than English.
   * *Bill 86* *(1993)*
-    * Protests over Bill 178 *(by the anglophone community for violation of freecom of expression)*.
+    * Protests over Bill 178 *(by the anglophone community for violation of freedom of expression)*.
     * All signage must have both languages but French must be visually predominant.
 * Language of instruction
   * *Bill 101* *(1977)*
@@ -21,7 +21,7 @@
     * Bridging schools: parents registered their children in non-subsidised private schools for one year and could send their children to a public English school.
       * Bridging school loophole blocked *(2002-09)*
     * *Certificate of eligibility* *(2010)*
-      * Minimum of 3 year attendence at non-subsidised English elementary school allows application for a certificate of eligibility.
+      * Minimum of 3 year attendance at non-subsidised English elementary school allows application for a certificate of eligibility.
       * The certificate eligibility grants the right to attend English public high school.
       * The provincial government has the say on the granting of certificates.
 * Indigenous languages
@@ -36,12 +36,12 @@
     * Affirmation of cultural identity
     * Support for arts and creators
     * Citizen access and participation in cultural life
-* Cultural crown coprporations
+* Cultural crown corporations
   * *CALQ* *(1994)*
-    * To support the dessemination of individual artists and organisations in Quebec, Canada and abroad.
+    * To support the dissemination of individual artists and organisations in Quebec, Canada and abroad.
   * *SODEC* *(1995)*
     * To promote and support the creation, production and influence of Quebec culture.
-* Dessemination of culture worldwide
+* Dissemination of culture worldwide
   * Quebec artists are given a platform to show their works.
 
 ### Information Society
