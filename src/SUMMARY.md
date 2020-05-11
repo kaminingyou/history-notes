@@ -36,9 +36,9 @@
   - [Quebec society under Levesque *(1976-1980)*](./chapter3/5.md)
 - [Societal Choices in Contemporary Quebec](./chapter4/index.md)
   - [Political Choices in Contemporary Quebec](./chapter4/1.md)
-  * [Economic Choices in Contemporary Quebec](./chapter4/2.md)
-  * [Social Choices in Contemporary Quebec](./chapter4/3.md)
-  * [Cultural Choices in Contemporary Quebec](./chapter4/4.md)
+  - [Economic Choices in Contemporary Quebec](./chapter4/2.md)
+  - [Social Choices in Contemporary Quebec](./chapter4/3.md)
+  - [Cultural Choices in Contemporary Quebec](./chapter4/4.md)
 - [Articles](./articles/index.md)
   - [Economic Cycles](./articles/economic_cycles.md)
 
