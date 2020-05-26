@@ -1,0 +1,103 @@
+{
+  "title":"First Nations and Metis in Canada",
+  "start":1840,
+  "end":1890,
+  "interval":10,
+  "widthPerInterval":200,
+  "rows":1,
+  "timePeriods":[
+    {
+      "start":1840,
+      "end":1890,
+      "row":0,
+      "label":"",
+      "colour":"#7289DA",
+      "whiteLabel":true
+
+    }
+
+  ],
+  "events":[
+    {
+      "time":1885,
+      "row":0,
+      "title":"North-west Rebellion",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/14.html#second-uprising-north-west-rebellion-1885",
+      "description":"Rebellion against the extension of railway into Metis lands."
+
+    },
+    {
+      "time":1885,
+      "row":0,
+      "title":"Execusion of Louis Riel",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/14.html#second-uprising-north-west-rebellion-1885",
+      "description":"Louis Riel was executed for treason."
+
+    },
+    {
+      "time":1876,
+      "row":0,
+      "title":"Indian Act",
+      "link":"https://en.wikipedia.org/wiki/Indian_Act",
+      "description":"Promotion of enfranchisement by restricting First Nations' rights."
+
+    },
+    {
+      "time":1876,
+      "row":0,
+      "title":"Residential Schools",
+      "link":"https://kaminingyou.github.io/history-notes/chapter2/1.html#indigenous-people-in-the-early-20th-century",
+      "description":"Schools created to assimilate First Nation children."
+
+    },
+    {
+      "time":1873,
+      "row":0,
+      "title":"Numbered Treaties",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/15.html#treaties-and-creation-of-reserves",
+      "description":"First Nations signed their land to the federal government."
+
+    },
+    {
+      "time":1870,
+      "row":0,
+      "title":"Execution of Thomas Scott",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/14.html#metis-uprising-red-river-rebellion-1869",
+      "description":"Scott was executed as an example of people who disobey Riel's government."
+
+    },
+    {
+      "time":1869,
+      "row":0,
+      "title":"Act of Gradual Enfranchisement of Indians",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/15.html#act-of-1869-and-band-councils",
+      "description":"First Nations were revoked land rights."
+
+    },
+    {
+      "time":1869,
+      "row":0,
+      "title":"Red River Rebellion",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/14.html#metis-uprising-red-river-rebellion-1869",
+      "description":"A provisional government was established to defend Metis' interests."
+
+    },
+    {
+      "time":1857,
+      "row":0,
+      "title":"Gradual Civilization Act",
+      "link":"https://en.wikisource.org/wiki/An_Act_to_encourage_the_gradual_Civilization_of_the_Indian_Tribes_in_this_Province,_and_to_amend_the_Laws_respecting_Indians",
+      "description":"Enfranchisement (assimilation) of First Nations."
+
+    },
+    {
+      "time":1843,
+      "row":0,
+      "title":"Bagot Commission",
+      "link":"https://kaminingyou.github.io/history-notes/chapter1/3.html",
+      "description":"Recommendation on the management of First Nation territory."
+
+    }
+
+  ]
+}
