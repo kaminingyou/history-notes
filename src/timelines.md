@@ -11,6 +11,10 @@ Some timelines are created to help in studying.
 
 ~~Last update: 21/01/2020~~
 
-Currently made for the tests on March 30th.
+~~Currently made for the tests on March 30th.~~
 
-Last update: 26/03/2020
+~~Last update: 26/03/2020~~
+
+Currently these timelines are made for the **June Exam**.
+
+Last update: 27/05/2020

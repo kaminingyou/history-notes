@@ -39,6 +39,7 @@
   - [Economic Choices in Contemporary Quebec](./chapter4/2.md)
   - [Social Choices in Contemporary Quebec](./chapter4/3.md)
   - [Cultural Choices in Contemporary Quebec](./chapter4/4.md)
+  - [Environmental Choices in Contemporary Quebec](./chapter4/5.md)
 - [Articles](./articles/index.md)
   - [Economic Cycles](./articles/economic_cycles.md)
 
